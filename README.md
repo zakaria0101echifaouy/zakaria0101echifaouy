@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@zechifaouy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zechifaouy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zakaria-echifaouy-24aa27264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-echifaouy-24aa27264" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/zakaria-ech-chifaouy-24aa27264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-echifaouy-24aa27264" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zechifaouy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zechifaouy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zakaria_echifaouy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zakaria_echifaouy" height="30" width="40" /></a>
 </p>
